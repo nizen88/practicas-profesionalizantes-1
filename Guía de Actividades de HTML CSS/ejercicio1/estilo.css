@@ -1,0 +1,35 @@
+.alinear
+{text-align: center;
+}
+
+.subrayado
+{text-decoration: underline;
+}
+
+.itali
+{font-style:italic;
+}
+
+.negrita
+{font-weight: bold;
+}
+
+.fondove
+{background-color:rgb(0, 255, 21);
+}
+
+.fondoam
+{background-color:yellow;
+}
+
+.coloraz
+{color:rgba(0, 153, 255, 0.603);
+}
+
+.coloroj
+{color:rgba(255, 0, 0, 0.93);
+}
+.sizletra
+{font-size: large;
+}
+
